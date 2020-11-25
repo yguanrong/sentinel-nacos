@@ -1,0 +1,8 @@
+.idea
+target/
+*.iml
+logs/
+/src/jiongling/V1.0/server/jiong_ling_intelligent_control_manager/.idea/misc.xml
+/src/jiongling/V1.0/server/jiong_ling_intelligent_control_manager/.idea
+/src/jiongling/V1.0/server/jiong_ling_intelligent_control_manager/.idea/*.xml
+/src/local/ZNVR_ShangHai V1.0_ChengYunDemo_0910/node_modules
